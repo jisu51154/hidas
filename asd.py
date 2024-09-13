@@ -1,1 +1,1 @@
-printf("ye");
+print("ye");
